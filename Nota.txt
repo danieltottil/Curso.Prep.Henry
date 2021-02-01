@@ -1,0 +1,6 @@
+Variables: sirven para guardar algo con un nombre como para poder recuperarla luego.
+Strings: son como hilos de letras.
+Funciones: - Argumentos: son los scopes donde las variables pueden tener sentido o no.
+ - Return: sirve para terminar la ejecución, no se puede retornar.
+ Declaraciones if: se usa para una expresión condicional si es si es verdadero y si es no es falso.
+ Valores booleanos: representa dos valores, falso o verdadero.
